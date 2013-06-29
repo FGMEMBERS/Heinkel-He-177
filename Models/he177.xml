@@ -304,6 +304,74 @@
     <object-name>Interieur</object-name>
   </animation>
 
+  <!-- Cranking effects -->
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -3.18785 </x-m>
+      <y-m> -4.19700 </y-m>
+      <z-m> -1.01371 </z-m>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -3.18785 </x-m>
+      <y-m> -3.02023 </y-m>
+      <z-m> -1.01371 </z-m>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -3.18785 </x-m>
+      <y-m>  3.02023 </y-m>
+      <z-m> -1.01371 </z-m>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -3.18785 </x-m>
+      <y-m>  4.19700 </y-m>
+      <z-m> -1.01371 </z-m>
+    </offsets>
+  </model>
+
+  <!-- Effets sur le sol -->
+  <!-- Roue gauche -->
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Effects/ground/ground0.xml</path>
+    <offsets>
+      <x-m> -3.44465 </x-m>
+      <y-m> -3.65831 </y-m>
+      <z-m> -3.32285 </z-m>
+    </offsets>
+  </model>
+
+  <!-- Roue droite -->
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Effects/ground/ground1.xml</path>
+    <offsets>
+      <x-m> -3.44465 </x-m>
+      <y-m>  3.65831 </y-m>
+      <z-m> -3.32285 </z-m>
+    </offsets>
+  </model>
+
+  <!-- Roue de queue -->
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Effects/ground/ground2.xml</path>   
+    <offsets>
+      <x-m>  7.53662 </x-m>
+      <y-m>  0.00000 </y-m>
+      <z-m> -1.70823 </z-m>
+    </offsets>
+  </model>
+
   <!-- Mitrailleuses -->
   <model>
     <path>Aircraft/Heinkel-He-177/Models/Guns/guns.xml</path>
