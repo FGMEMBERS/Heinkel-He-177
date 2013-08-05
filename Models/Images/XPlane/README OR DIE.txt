@@ -1,1 +1,0 @@
-This CSL wan not created by me but by Mick. It is freeware and by no means meant to be used as payware. Do whatever you want with it but Credit Mick and/or ME. Do not redistribute it in your own name. Thanks.
