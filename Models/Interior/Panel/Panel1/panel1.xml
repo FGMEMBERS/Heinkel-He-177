@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+   <path>panel1.ac</path>
+
+  <animation>
+    <!-- Objets opaques -->
+    <object-name>panel1</object-name>
+    <object-name>visses</object-name>
+    
+    <!-- Objets transparents -->
+  </animation>
+
+  <!-- RPM LEFT -->
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Interior/Panel/Panel1/Instruments/rpm/rpm0.xml</path>
+    <offsets>
+      <x-m>  0.016 </x-m>
+      <y-m> -0.018 </y-m>
+      <z-m>  0.056 </z-m>
+    </offsets>
+  </model>
+
+  <!-- RPM RIGHT -->
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Interior/Panel/Panel1/Instruments/rpm/rpm1.xml</path>
+    <offsets>
+      <x-m> 0.016 </x-m>
+      <y-m> 0.018 </y-m>
+      <z-m> 0.056 </z-m>
+    </offsets>
+  </model>
+
+  <!-- MAN LEFT -->
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Interior/Panel/Panel1/Instruments/man/man0.xml</path>
+    <offsets>
+      <x-m>  0.016 </x-m>
+      <y-m> -0.018 </y-m>
+      <z-m>  0.024 </z-m>
+    </offsets>
+  </model>
+
+  <!-- MAN RIGHT -->
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Interior/Panel/Panel1/Instruments/man/man1.xml</path>
+    <offsets>
+      <x-m> 0.016 </x-m>
+      <y-m> 0.018 </y-m>
+      <z-m> 0.024 </z-m>
+    </offsets>
+  </model>
+
+  <!-- ENGINE GER -->
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Interior/Panel/Panel1/Instruments/engines/engine-ger.xml</path>
+    <offsets>
+      <x-m>  0.016 </x-m>
+      <y-m> -0.018 </y-m>
+      <z-m> -0.025 </z-m>
+    </offsets>
+  </model>
+
+  <!-- GEMISCH GER -->
+  <model>
+    <path>Aircraft/Heinkel-He-177/Models/Interior/Panel/Panel1/Instruments/engines/gemisch-ger.xml</path>
+    <offsets>
+      <x-m>  0.016 </x-m>
+      <y-m> -0.018 </y-m>
+      <z-m> -0.057 </z-m>
+    </offsets>
+  </model>
+
+</PropertyList>
+
